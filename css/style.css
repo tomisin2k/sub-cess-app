@@ -232,6 +232,15 @@ section {
   padding-top: 5rem;
   display: none;
 }
+
+.sub {
+
+}
+
+.cess {
+  color: #f5bf23
+}
+
 .contact-info.active {
   box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.7);
   display: block;
